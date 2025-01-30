@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "BYBIT": {
+      "Account 1": { "SOMO": 500, "USDT": 200, "SOL": 20 }
+    },
+    "GATE": {
+      "Account 1": { "SOMO": 500, "USDT": 200, "SOL": 20 },
+      "Account 2": { "SOMO": 500, "USDT": 200, "SOL": 20 },
+      "Account 3": { "SOMO": 500, "USDT": 200, "SOL": 20 }
+    },
+    "OKX": {
+      "Account 1": { "SOMO": 500, "USDT": 200, "SOL": 20 }
+    },
+    "KUCOIN": {
+      "Account 1": { "SOMO": 500, "USDT": 200, "SOL": 20 }
+    }
+  }
+}
